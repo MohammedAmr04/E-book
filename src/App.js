@@ -1,11 +1,10 @@
 import './App.css';
+import Landing from './Components/Home/Landing';
 
 function App() {
   return (
     <>
-      <div className='bg-dark'>
-          brazily
-      </div>
+     <Landing/>
     </>
   );
 }

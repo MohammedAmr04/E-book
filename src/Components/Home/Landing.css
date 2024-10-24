@@ -1,0 +1,17 @@
+.main{
+    background-image: url('/public/images/Landing/img2.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    .content{
+        background-color: #0d6dfd9f;
+        color: black;
+    }
+    ul{
+        list-style: none;
+        .active{
+            background-color: #0d6dfd9f;
+        }
+    }
+    
+    }
