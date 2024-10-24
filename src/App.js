@@ -3,7 +3,9 @@ import './App.css';
 function App() {
   return (
     <>
-    Start
+      <div className='bg-dark'>
+          brazily
+      </div>
     </>
   );
 }
